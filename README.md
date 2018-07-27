@@ -1,8 +1,8 @@
-# <h1 dir='ltr' align='left'> Simple-Visual-Snake-Game </h1>
+<h1 dir='ltr' align='left'> Simple-Visual-Snake-Game </h1>
 <p dir='ltr' align='left'>
 I used to code in C++ sometime. Specialy when I had the course "Fundumentals of programming" in the very first semester of university. This repo was my final project for the course. It seems such a dirty code nowdays. But I thought it may be helpfull to someone.
 </p>
-## <h2 dir='ltr' align='left'> Features: </h2>
+<h2 dir='ltr' align='left'> Features: </h2>
 <p dir='ltr' align='left'>1. Loading progress bar (for 2 seconds)</p>
 <p dir='ltr' align='left'>2. Three difficulty levels </p>
 <p dir='ltr' align='left'>3. Optional game ending on hitting the window border</p>
@@ -10,10 +10,11 @@ I used to code in C++ sometime. Specialy when I had the course "Fundumentals of 
 <p dir='ltr' align='left'>5. Random walls, with no closed loop. It is also depends on the difficulty level</p>
 <p dir='ltr' align='left'>6. An slighty little time to change direction on hitting the wall to help the user</p>
 <p dir='ltr' align='left'>7. Scoreboard on the top</p>
+
 <p dir='ltr' align='left'>One can see a preview of it by downloading and running the "Snake.exe" file</p>
 
 
-# بازی گرافیکی مار
+# پروژه بازی گرافیکی مار با زبان C++
 قضیه از این قراره که این یه زمانی پروژه‌ی درس مبانی برنامه نویسی ما بود. اون موقع نوشتمش و قاعدتا الان که می‌بینمش به خودم میگم چقدر کثیف نوشتی. ولی به هر حال شاید به درد بعضیا خورد.
 ## امکانات بازی این‌ها هستن:
 
